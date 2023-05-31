@@ -1,8 +1,7 @@
 ## Task
-Знайти в заданому лабіринті найкоротший шлях між двома точками за допомогою алгоритму A\*. Для реалізації алгоритму використати структуру даних проста пріоритетна черга, яку треба написати власноруч.
 Find the shortest path between two points in a given maze using the A\* algorithm. To implement the algorithm, use the data structure of a simple priority queue, which you have to write yourself.
 
-### Вхідні та вихідні дані
+### Input and output data
 The input maze is specified in the file as a formatted two-dimensional matrix. In the code, the starting point of the path search and the end point are specified. Example of input data:
 ```
 X X X X X X X X   
